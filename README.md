@@ -17,7 +17,7 @@ flask - https://flask.palletsprojects.com/en/2.0.x/
 ```
 ## Usage
 ```bash
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:erkeaiym2408@localhost/users'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:satbaevna03*@localhost/users'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['SECRET_KEY'] = 'thisismyflasksecretkey'
 ```
